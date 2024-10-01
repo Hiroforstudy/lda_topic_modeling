@@ -13,7 +13,7 @@ conda activate myenv
 ```
 conda install jupyterlab
 ```
-- Activate Jupiter Labs
+- Activate Jupiter Lab
 ```
 jupyter lab
 ```
