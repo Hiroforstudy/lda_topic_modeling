@@ -17,3 +17,16 @@ conda install jupyterlab
 ```
 jupyter lab
 ```
+---
+# Packages to install
+```
+conda install numpy scipy scikit-learn matplotlib h5py pillow tensorflow -y
+```
+---
+# List of packages to install with pip
+```
+pip install pyLDAvis
+```
+```
+pip install nltk
+```
