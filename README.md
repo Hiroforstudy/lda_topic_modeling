@@ -1,8 +1,8 @@
-# lda_topic.ipynb
+# topic_modeling.ipynb
 ![lda_image](./images/lda_image.png)
 ## Description and commands to execute under the assumption that homebrew has been installed.
 - Steps to create a environment
-```
+```bash
 conda create --name myenv python=3.10
 ```
 - Activate Virtual Environment
